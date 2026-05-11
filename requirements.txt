@@ -1,0 +1,7 @@
+streamlit
+groq
+supabase
+python-dotenv
+requests
+beautifulsoup4
+apscheduler

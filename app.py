@@ -19,7 +19,7 @@ with col1:
 
 with col2:
     source_filter = st.selectbox("Source", 
-        ["All", "LinkedIn", "Indeed", "Naukri"])
+        ["LinkedIn"])
 
 with col3:
     location_filter = st.selectbox("Location",
